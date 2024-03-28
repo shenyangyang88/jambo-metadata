@@ -2,5 +2,5 @@
     "name": "Jambo Token",
     "symbol": "JAMBO",
     "description": "Jambo Solana SPL token :)",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/shenyangyang88/jambo-metadata/main/dev.png"
 }
